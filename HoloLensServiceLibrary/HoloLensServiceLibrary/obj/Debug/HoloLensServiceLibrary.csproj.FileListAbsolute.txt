@@ -1,0 +1,10 @@
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\HoloLensServiceLibrary\bin\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\HoloLensServiceLibrary\bin\Debug\HoloLensServiceLibrary.pdb
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\HoloLensServiceLibrary\bin\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\HoloLensServiceLibrary\bin\Debug\HoloLensServiceLibrary.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\HoloLensServiceLibrary\obj\Debug\HoloLensServiceLibrary.pdb

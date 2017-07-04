@@ -1,0 +1,7 @@
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\bin\Debug\MyHololensClient.exe
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\bin\Debug\MyHololensClient.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\bin\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\bin\Debug\HoloLensServiceLibrary.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\obj\Debug\MyHololensClient.csprojResolveAssemblyReference.cache
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\obj\Debug\MyHololensClient.exe
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololensClient\obj\Debug\MyHololensClient.pdb

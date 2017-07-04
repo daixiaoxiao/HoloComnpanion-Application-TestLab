@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyHololenServiceHost.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TesTLabFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\e7nmde\Desktop\Heli_GVT.lms</Value>
+    </Setting>
+    <Setting Name="OnTopSheetForGeometry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Navigator</Value>
+    </Setting>
+    <Setting Name="GeometryDataName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Geometry</Value>
+    </Setting>
+    <Setting Name="NotSpecifiedComponentName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not specifield component</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

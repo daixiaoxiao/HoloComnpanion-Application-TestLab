@@ -1,0 +1,14 @@
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HololensServiceHost.exe.config
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.csproj.ResolveComReference.cache
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\daixiaoxiao\Documents\Azure Team Projects\Hololens_Impact\Code\TryOut\Communication_Dai\Communication_DuplexCombine_V1\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HololensServiceHost.exe.config
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.csproj.ResolveComReference.cache
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.exe
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\obj\Debug\HololensServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HololensServiceHost.exe
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HololensServiceHost.pdb
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HoloLensServiceLibrary.dll
+C:\Users\daixiaoxiao\Documents\Visual Studio 2015\Projects\HoloLensServiceLibrary\MyHololenServiceHost\bin\Debug\HoloLensServiceLibrary.pdb
